@@ -5,7 +5,9 @@
 	- L'existence humaine et la culture
 	- La morale et la politique
 	- La connaissance
+
 Liens entre notions
+
 ex: Art: 
 - Art\Vérité
 - Art\Technique
