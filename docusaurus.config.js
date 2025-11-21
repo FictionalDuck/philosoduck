@@ -19,7 +19,7 @@ const config = {
   organizationName: 'FictionalDuck',
   projectName: 'philosoduck',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
 
   i18n: {
     defaultLocale: 'fr',

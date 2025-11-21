@@ -25,7 +25,7 @@ ex: Art:
 - La raison
 - La religion
 - La science
-- La [[definitions/technique-moyens-fins|technique]]
+- La [technique](docs/definitions/technique-moyens-fins)
 - Le temps
 - Le travail
 - La vérité
@@ -34,33 +34,33 @@ ex: Art:
 - La morale et la politique
 - La connaissance
 ### Les repères
-- [ ] [Absolu](definitions/absolu.md)/[relatif](definitions/relatif.md)
-- [ ] Abstrait/[concret](definitions/concret)
+- [ ] [Absolu](docs/definitions/absolu.md)/[relatif](docs/definitions/relatif.md)
+- [ ] Abstrait/[concret](docs/definitions/concret)
 - [ ] En acte/en puissance
-- [ ] [Analyse](definitions/analyse)/[synthèse](definitions/synthèse)
-- [ ] [Concept](definitions/concept)/image/métaphore
-- [ ] [Contingent](definitions/contingent)/[nécessaire](definitions/nécessaire)
+- [ ] [Analyse](docs/definitions/analyse)/[synthèse](docs/definitions/synthese)
+- [ ] [Concept](docs/definitions/concept)/image/métaphore
+- [ ] [Contingent](docs/definitions/contingent)/[nécessaire](docs/definitions/necessaire)
 - [ ] Croire/savoir
-- [ ] [essentiel](definitions/essentiel)/[accidentel](definitions/accidentel)
+- [ ] [essentiel](docs/definitions/essentiel)/[accidentel](docs/definitions/accidentel)
 - [ ] Exemple/preuve
 - [ ] Expliquer/comprendre
-- [ ] En [fait](definitions/le-fait)/ en [droit](definitions/le-droit)
+- [ ] En [fait](docs/definitions/le-fait)/ en [droit](docs/definitions/le-droit)
 - [ ] Formel/matériel
 - [ ] Genre/espèce/individu
 - [ ] Hypothèse/conséquence/conclusion
 - [ ] Idéal/réel
 - [ ] Identité/égalité/différence
 - [ ] Impossible/possible
-- [ ] [intuitif](definitions/intuitif)/[discursif](definitions/discursif)
+- [ ] [intuitif](docs/definitions/intuitif)/[discursif](docs/definitions/discursif)
 - [ ] Légal/légitime
 - [ ] Médiat/immédiat
-- [ ] Objectif/[subjectif](definitions/subjectif)/intersubjectif
+- [ ] Objectif/[subjectif](docs/definitions/subjectif)/intersubjectif
 - [ ] Principe/cause/fin
 - [ ] Public/privé
 - [ ] Ressemblance/analogie
 - [ ] Théorie/pratique
-- [ ] [transcendant](definitions/transcendant)/[immanent](definitions/immanent)
-- [ ] [universel](definitions/universel)/[général](definitions/general)/[particulier](definitions/particulier)/[singulier](definitions/singulier)
+- [ ] [transcendant](docs/definitions/transcendant)/[immanent](docs/definitions/immanent)
+- [ ] [universel](docs/definitions/universel)/[général](docs/definitions/general)/[particulier](docs/definitions/particulier)/[singulier](docs/definitions/singulier)
 - [ ] Vrai/probable/certain
 ### Les auteurs
 #### Antiquité et Moyen-Age:
