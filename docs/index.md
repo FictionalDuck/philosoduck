@@ -1,0 +1,152 @@
+# Programme
+### Les notions
+#### Pour 1 notion:
+- 3 points:
+	- L'existence humaine et la culture
+	- La morale et la politique
+	- La connaissance
+Liens entre notions
+ex: Art: 
+- Art\Vérité
+- Art\Technique
+- Art\Religieux
+- Art\Travail
+#### Notions:
+- L'art
+- Le bonheur
+- La conscience
+- Le devoir
+- L'Etat
+- L'inconscient
+- La justice
+- Le langage
+- La liberté
+- La nature
+- La raison
+- La religion
+- La science
+- La [[definitions/technique-moyens-fins|technique]]
+- Le temps
+- Le travail
+- La vérité
+### Les perspectives d'étude
+- L'existence humaine et la culture
+- La morale et la politique
+- La connaissance
+### Les repères
+- [ ] [Absolu](definitions/absolu.md)/[relatif](definitions/relatif.md)
+- [ ] Abstrait/[concret](definitions/concret)
+- [ ] En acte/en puissance
+- [ ] [Analyse](definitions/analyse)/[synthèse](definitions/synthèse)
+- [ ] [Concept](definitions/concept)/image/métaphore
+- [ ] [Contingent](definitions/contingent)/[nécessaire](definitions/nécessaire)
+- [ ] Croire/savoir
+- [ ] [essentiel](definitions/essentiel)/[accidentel](definitions/accidentel)
+- [ ] Exemple/preuve
+- [ ] Expliquer/comprendre
+- [ ] En [fait](definitions/le-fait)/ en [droit](definitions/le-droit)
+- [ ] Formel/matériel
+- [ ] Genre/espèce/individu
+- [ ] Hypothèse/conséquence/conclusion
+- [ ] Idéal/réel
+- [ ] Identité/égalité/différence
+- [ ] Impossible/possible
+- [ ] [intuitif](definitions/intuitif)/[discursif](definitions/discursif)
+- [ ] Légal/légitime
+- [ ] Médiat/immédiat
+- [ ] Objectif/[subjectif](definitions/subjectif)/intersubjectif
+- [ ] Principe/cause/fin
+- [ ] Public/privé
+- [ ] Ressemblance/analogie
+- [ ] Théorie/pratique
+- [ ] [transcendant](definitions/transcendant)/[immanent](definitions/immanent)
+- [ ] [universel](definitions/universel)/[général](definitions/general)/[particulier](definitions/particulier)/[singulier](definitions/singulier)
+- [ ] Vrai/probable/certain
+### Les auteurs
+#### Antiquité et Moyen-Age:
+- Les présocratiques
+- Platon
+- Aristote
+- Zhuangzi
+- Epicure
+- Cicéron
+- Lucrèce
+- Sénèque
+- Epictète
+- Marc Aurèle
+- Nagarjuna
+- Sextus Empiricus
+- Plotin
+- Augustin
+- Avicenne
+- Anselme
+- Averroès
+- Maïmonide
+- Thomas d'Aquin
+- Guillaume d'Occam
+#### Période moderne:
+- N. Machiavel
+- M. Montaigne (de)
+- F. Bacon
+- T. Hobbes
+- R. Descartes
+- B. Pascal
+- J. Locke
+- B. Spinoza
+- N. Malebranche
+- G. W. Leibniz
+- G. Vico
+- G. Berkeley
+- Montesquieu
+- D. Hume
+- J.-J. Rousseau
+- D. Diderot
+- E. Condillac (de)
+- A. Smith
+- E. Kant
+- J. Bentham
+#### Période contemporaine:
+- G.W.H. Hegel
+- A. Schopenhauer
+- A. Comte
+- A.-A. Cournot
+- L. Feuerbach
+- A. Tocqueville (de)
+- J.-S. Mill
+- S. Kierkegaard
+- K. Marx
+- F. Engels
+- W. James
+- F. Nietzsche
+- S. Freud
+- E. Durkheim
+- H. Bergson
+- E. Husserl
+- M. Weber
+- Alain
+- M. Mauss
+- B. Russell
+- K. Jaspers
+- G. Bachelard
+- M. Heidegger
+- L. Wittgenstein
+- W. Benjamin   
+- K. Popper
+- V. Jankélévitch
+- H. Jonas
+- R. Aron
+- J.-P.  Sartre
+- H. Arendt
+- E. Levinas
+- S. de Beauvoir
+- C. Lévi-Strauss
+- M. Merleau-Ponty
+- S. Weil
+- J. Hersch
+- P. Ricoeur
+- E. Anscombe
+- I. Murdoch
+- J. Rawls
+- G. Simondon
+- M. Foucault
+- H. Putnam
