@@ -6,7 +6,7 @@ import rehypeKatex from 'rehype-katex';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Philosoduck',
-  tagline: 'Ducks are cool !',
+  tagline: 'Ducks 🦆 !',
   favicon: 'img/duck.png',
 
   future: {
@@ -18,7 +18,7 @@ const config = {
 
   organizationName: 'FictionalDuck',
   projectName: 'philosoduck',
-
+  trailingSlash: false,
   onBrokenLinks: 'warn',
 
   i18n: {
