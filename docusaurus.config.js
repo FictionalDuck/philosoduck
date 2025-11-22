@@ -8,6 +8,7 @@ const config = {
   title: 'Philosoduck',
   tagline: 'Ducks 🦆 !',
   favicon: 'img/duck.png',
+  blog: false,
 
   future: {
     v4: true,
