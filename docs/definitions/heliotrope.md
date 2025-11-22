@@ -1,2 +1,0 @@
-# Heliotrope
-Tournesol

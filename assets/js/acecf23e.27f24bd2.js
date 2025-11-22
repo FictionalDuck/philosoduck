@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkphilosoduck=globalThis.webpackChunkphilosoduck||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/philosoduck/blog","blogTitle":"Blog","authorsListPath":"/philosoduck/blog/authors"}')}}]);
