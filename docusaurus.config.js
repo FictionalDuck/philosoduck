@@ -74,7 +74,10 @@ const config = {
         },
         items: [
           {
-            to: 'docs', label: 'Files', position: 'left'
+            to: 'docs/philosophie', label: 'Philosophie', position: 'left'
+          },
+          {
+            to: 'docs/mathematiques', label: 'Mathématiques', position: 'left'
           },
           {
             href: 'https://github.com/fictionalduck/philosoduck',
