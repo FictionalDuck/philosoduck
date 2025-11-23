@@ -20,14 +20,15 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="docs/philosophie">
-            Go to the Philosophy files 🦆
+            Go to Philosoduck 🦆
           </Link>
         </div>
+        <br></br>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="docs/mathematics">
-            Go to the Mathematics files 🦆
+            Go to Mathemaquack 🦆
           </Link>
         </div>
       </div>

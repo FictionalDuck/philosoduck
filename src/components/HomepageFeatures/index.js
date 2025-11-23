@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/duck-gun.svg').default,
     description: (
       <>
-        Go check out the files or adopt a duck !
+        If you're not studying, at least adopt a duck !
       </>
     ),
   },
