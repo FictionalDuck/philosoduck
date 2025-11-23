@@ -27,7 +27,7 @@ ex: Art:
 - La raison
 - La religion
 - La science
-- La [technique](docs/philosophie/definitions/technique-moyens-fins)
+- La [technique](philosophie/definitions/technique-moyens-fins)
 - Le temps
 - Le travail
 - La vérité
@@ -36,33 +36,33 @@ ex: Art:
 - La morale et la politique
 - La connaissance
 ### Les repères
-- [ ] [Absolu](docs/philosophie/definitions/absolu.md)/[relatif](docs/philosophie/definitions/relatif.md)
-- [ ] Abstrait/[concret](docs/philosophie/definitions/concret)
+- [ ] [Absolu](philosophie/definitions/absolu.md)/[relatif](philosophie/definitions/relatif.md)
+- [ ] Abstrait/[concret](philosophie/definitions/concret)
 - [ ] En acte/en puissance
-- [ ] [Analyse](docs/philosophie/definitions/analyse)/[synthèse](docs/philosophie/definitions/synthese)
-- [ ] [Concept](docs/philosophie/definitions/concept)/image/métaphore
-- [ ] [Contingent](docs/philosophie/definitions/contingent)/[nécessaire](docs/philosophie/definitions/necessaire)
+- [ ] [Analyse](philosophie/definitions/analyse)/[synthèse](philosophie/definitions/synthese)
+- [ ] [Concept](philosophie/definitions/concept)/image/métaphore
+- [ ] [Contingent](philosophie/definitions/contingent)/[nécessaire](philosophie/definitions/necessaire)
 - [ ] Croire/savoir
-- [ ] [essentiel](docs/philosophie/definitions/essentiel)/[accidentel](docs/philosophie/definitions/accidentel)
+- [ ] [essentiel](philosophie/definitions/essentiel)/[accidentel](philosophie/definitions/accidentel)
 - [ ] Exemple/preuve
 - [ ] Expliquer/comprendre
-- [ ] En [fait](docs/philosophie/definitions/le-fait)/ en [droit](docs/philosophie/definitions/le-droit)
+- [ ] En [fait](philosophie/definitions/le-fait)/ en [droit](philosophie/definitions/le-droit)
 - [ ] Formel/matériel
 - [ ] Genre/espèce/individu
 - [ ] Hypothèse/conséquence/conclusion
 - [ ] Idéal/réel
 - [ ] Identité/égalité/différence
 - [ ] Impossible/possible
-- [ ] [intuitif](docs/philosophie/definitions/intuitif)/[discursif](docs/philosophie/definitions/discursif)
+- [ ] [intuitif](philosophie/definitions/intuitif)/[discursif](philosophie/definitions/discursif)
 - [ ] Légal/légitime
 - [ ] Médiat/immédiat
-- [ ] Objectif/[subjectif](docs/philosophie/definitions/subjectif)/intersubjectif
+- [ ] Objectif/[subjectif](philosophie/definitions/subjectif)/intersubjectif
 - [ ] Principe/cause/fin
 - [ ] Public/privé
 - [ ] Ressemblance/analogie
 - [ ] Théorie/pratique
-- [ ] [transcendant](docs/philosophie/definitions/transcendant)/[immanent](docs/philosophie/definitions/immanent)
-- [ ] [universel](docs/philosophie/definitions/universel)/[général](docs/philosophie/definitions/general)/[particulier](docs/philosophie/definitions/particulier)/[singulier](docs/philosophie/definitions/singulier)
+- [ ] [transcendant](philosophie/definitions/transcendant)/[immanent](philosophie/definitions/immanent)
+- [ ] [universel](philosophie/definitions/universel)/[général](philosophie/definitions/general)/[particulier](philosophie/definitions/particulier)/[singulier](philosophie/definitions/singulier)
 - [ ] Vrai/probable/certain
 ### Les auteurs
 #### Antiquité et Moyen-Age:
