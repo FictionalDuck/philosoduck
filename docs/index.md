@@ -43,7 +43,7 @@ ex: Art:
 - [ ] [Concept](docs/definitions/concept)/image/métaphore
 - [ ] [Contingent](docs/definitions/contingent)/[nécessaire](docs/definitions/necessaire)
 - [ ] Croire/savoir
-- [ ] [essentiel](docs/definitions/essentiel)/[accidentel](docs/definitions/accidentel)
+- [ ] [essentiel](docs/definitions/essence)/[accidentel](docs/definitions/accident)
 - [ ] Exemple/preuve
 - [ ] Expliquer/comprendre
 - [ ] En [fait](docs/definitions/le-fait)/ en [droit](docs/definitions/le-droit)
