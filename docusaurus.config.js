@@ -18,6 +18,7 @@ const config = {
 
   organizationName: 'FictionalDuck',
   projectName: 'philosoduck',
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
   onBrokenLinks: 'warn',
 

@@ -43,7 +43,7 @@ ex: Art:
 - [ ] [Concept](philosophie/definitions/concept)/image/métaphore
 - [ ] [Contingent](philosophie/definitions/contingent)/[nécessaire](philosophie/definitions/necessaire)
 - [ ] Croire/savoir
-- [ ] [essentiel](philosophie/definitions/essentiel)/[accidentel](philosophie/definitions/accidentel)
+- [ ] [essentiel](philosophie/definitions/essence)/[accidentel](philosophie/definitions/accident)
 - [ ] Exemple/preuve
 - [ ] Expliquer/comprendre
 - [ ] En [fait](philosophie/definitions/le-fait)/ en [droit](philosophie/definitions/le-droit)
