@@ -1,9 +1,9 @@
 # Exercice 57
-
+- *[Retour au programme](../index.md)*
+- *[Aller aux chapitres](../chapitres/chapitres.md)*
+- *[Aller aux exercices](../exercices/exercices.md)*
+## Liens Manuel
 - [Source (lelivrescolaire.fr)](https://www.lelivrescolaire.fr/page/16648158)
-
-## Chapitres
-
 - [Ch. 6 - Continuité](https://www.lelivrescolaire.fr/page/14577037)
 - [Ch. 9 - Fonctions trigonométriques](https://www.lelivrescolaire.fr/page/15903289)
 
@@ -23,9 +23,9 @@
    ##### B. En déduire le tableau de variations de $f$ sur $[-1; 5]$.
 
 ***
-
+<details>
+<summary>Voir la correction...</summary>
 ## Correction
-
 Soit $f$ la fonction définie pour tout $x \in [-1;5]$ par :
 $$
 f(x) = \frac{e^{-x}}{2}(\cos(x)+\sin(x)-2x+1)
@@ -160,3 +160,5 @@ On déduit donc:
 | $g(x)$  | -  | $0$| +|
 | $f'(x)$ | -  | $0$| +|
 | $f(x)$  | décroissant | $f(\alpha)$ | croissant |
+
+</details>
