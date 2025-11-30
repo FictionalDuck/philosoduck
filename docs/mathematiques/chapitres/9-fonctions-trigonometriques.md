@@ -1,4 +1,5 @@
 # Fonctions Trigonométriques
+*[Retour aux chapitres](./chapitres.md)*
 
 ## Exercices
 Liste d'exercices avec ce chapitre:
