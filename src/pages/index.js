@@ -31,6 +31,14 @@ function HomepageHeader() {
             Go to Mathemaquack 🦆
           </Link>
         </div>
+        <br></br>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="docs/enseignement-scientifique">
+            Go to Enseignement Scientifiquack 🦆
+          </Link>
+        </div>
       </div>
     </header>
   );

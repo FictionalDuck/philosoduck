@@ -80,6 +80,10 @@ const config = {
           {
             to: 'docs/mathematiques', label: 'Mathématiques', position: 'left'
           },
+          
+          {
+            to: 'docs/enseignement-scientifique', label: 'Enseignement Scientifique', position: 'left'
+          },
           {
             href: 'https://github.com/fictionalduck/philosoduck',
             label: 'GitHub',
