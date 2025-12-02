@@ -105,8 +105,13 @@ La sélection naturelle va alors dépendre des conditions environnementales.
 
 Pour une espèce où la diversité allélique est faible, alors la survie de cette population est fortement compromise pour tout changement environnemental, ce qui amène l'extinction de l'espèce.
 ***
+#### Dérive génétique
+La dérive génétique est la modification des fréquences d'une [allèle](../enseignement-scientifique/fiche-de-revision.md#allèle) ou d'un [génotype](../enseignement-scientifique/fiche-de-revision.md#génotype), dans une population.
+
+Elle est causé par des événements aléatoires et imprévisibles.
+***
 #### Ecosystème
-L'ecosystème est composé du [biotope](../enseignement-scientifique/fiche-de-revision.md#biotope) et du [biocénose](../enseignement-scientifique/fiche-de-revision.md#biocénose).
+L'écosystème est composé du [biotope](../enseignement-scientifique/fiche-de-revision.md#biotope) et du [biocénose](../enseignement-scientifique/fiche-de-revision.md#biocénose).
 ***
 ##### Biotope
 Le biotope est l'ensemble des caractéristiques physico chimiques, comme la lumière, la température, le ph et les ions.
