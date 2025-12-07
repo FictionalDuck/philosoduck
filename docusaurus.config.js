@@ -37,7 +37,7 @@ const config = {
           rehypePlugins: [rehypeKatex],
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/FictionalDuck/philosoduck/',
+            'https://github.com/FictionalDuck/philosoduck/edit/main/',
         },
         theme: {
           customCss: './src/css/custom.css',

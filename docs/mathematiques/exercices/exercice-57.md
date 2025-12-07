@@ -10,6 +10,10 @@
 ***
 
 ## Exercice
+Soit $f$ la fonction définie pour tout $x \in [-1;5]$ par :
+$$
+f(x) = \frac{e^{-x}}{2}(\cos(x)+\sin(x)-2x+1)
+$$
 
 #### 1. Déterminer l'expression $f'(x)$ pour $x \in [-1;5]$.
 #### 2. Soit $g$ la fonction définie pour tout $x \in [-1;5]$ par :
